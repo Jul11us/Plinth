@@ -1,0 +1,9 @@
+HairSegmenter.mlmodelc
+
+Converted to Core ML from "MediaPipe Multiclass Selfie Segmentation" (selfie_multiclass_256x256.tflite),
+Copyright Google LLC, licensed under the Apache License, Version 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
+
+Source: https://storage.googleapis.com/mediapipe-models/image_segmenter/selfie_multiclass_256x256/float32/latest/selfie_multiclass_256x256.tflite
+Changes: file format converted from TensorFlow Lite to Core ML (scripts/convert-hair-model.py); weights unchanged.
+Full licence text: HairSegmenter-LICENSE-Apache-2.0.txt

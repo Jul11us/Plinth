@@ -1,0 +1,1096 @@
+{
+  "specLabels": [
+    "长度",
+    "层次",
+    "刘海",
+    "两侧 / 后颈",
+    "发尾 / 质感",
+    "分线 / 造型"
+  ],
+  "styles": [
+    {
+      "id": "f1",
+      "name": "法式层次锁骨发",
+      "gender": "female",
+      "length": "medium",
+      "ease": "好打理",
+      "care": "约 10 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "层次从颧骨下方展开，保持比例均衡",
+        "锁骨长度不会额外拉长脸型",
+        "八字刘海柔化额头"
+      ],
+      "say": "剪到锁骨，从下巴开始打层次，前短后长，留八字刘海。",
+      "specs": [
+        "后面到锁骨下 1–2 cm",
+        "从下巴开始，往后逐渐变长",
+        "八字刘海，最短到颧骨，向两边打开",
+        "跟着层次走，不用推",
+        "轻打薄，保留重量，不要剪碎",
+        "中分或微偏分，发尾吹外翻"
+      ],
+      "avoid": [
+        "不要剪到肩膀以上",
+        "整体不要打太薄"
+      ],
+      "scores": {
+        "oval": 96,
+        "round": 88,
+        "square": 92,
+        "heart": 90,
+        "oblong": 85,
+        "diamond": 90,
+        "triangle": 86
+      },
+      "prompt": "a collarbone-length layered French cut, layers starting at the chin and getting longer toward the back, soft curtain bangs parted in the middle opening at cheekbone level, ends softly flipped outward",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f2",
+      "name": "齐肩内扣波波",
+      "gender": "female",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 5 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "发尾在下颌下方内扣，勾勒柔和的下颌线",
+        "短长度能突出脸型比例",
+        "细软发也能显得更有厚度"
+      ],
+      "say": "剪到肩膀上面一点，发尾内扣，整体齐一些，不要太多层次。",
+      "specs": [
+        "前后一样长，停在肩上约 2 cm",
+        "只在发尾内侧做一点，帮助内扣",
+        "不留；或侧分长刘海到嘴角",
+        "后颈不推，保留厚度",
+        "平剪后，发尾内侧轻打薄",
+        "三七分，圆梳吹内扣"
+      ],
+      "avoid": [
+        "不要剪成下巴长度",
+        "不要厚重齐刘海"
+      ],
+      "scores": {
+        "oval": 93,
+        "round": 70,
+        "square": 74,
+        "heart": 92,
+        "oblong": 88,
+        "diamond": 86,
+        "triangle": 64
+      },
+      "prompt": "a sleek smooth bob ending just above the shoulders, ends curled under toward the neck, side part, no bangs, blunt and polished",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f3",
+      "name": "长层次大波浪",
+      "gender": "female",
+      "length": "long",
+      "ease": "需要卷发棒",
+      "care": "约 15 分钟",
+      "cycle": "8–10 周",
+      "why": [
+        "波浪在两侧增加宽度，平衡脸长",
+        "大层次让长发不显沉重",
+        "中分、三七分都合适"
+      ],
+      "say": "保留长度到胸口，从下巴开始剪大层次，发尾烫大波浪。",
+      "specs": [
+        "后面到胸口，前面比后面短约 5 cm",
+        "大层次，从下巴开始",
+        "不留；或长刘海融进层次",
+        "两侧层次衔接到前面",
+        "烫大波浪，卷度从耳下开始",
+        "中分或三七分"
+      ],
+      "avoid": [
+        "层次不要太碎",
+        "卷度不要从头顶开始"
+      ],
+      "scores": {
+        "oval": 91,
+        "round": 86,
+        "square": 94,
+        "heart": 88,
+        "oblong": 72,
+        "diamond": 84,
+        "triangle": 80
+      },
+      "prompt": "long chest-length hair with long layers starting at the chin and big soft loose waves from below the ears, middle part, no bangs",
+      "hairProfile": {
+        "minutes": 15,
+        "finish": "wavy",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f4",
+      "name": "精灵短发",
+      "gender": "female",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 5 分钟",
+      "cycle": "3–4 周",
+      "why": [
+        "露出完整的脸部轮廓",
+        "头顶留蓬松度，增加立体感",
+        "清爽省时"
+      ],
+      "say": "两边和后颈剪短贴头，头顶留长一点做纹理，刘海往一边扫。",
+      "specs": [
+        "头顶 6–8 cm，两侧和后颈 2–3 cm",
+        "头顶碎层次，增加蓬松度",
+        "侧扫长刘海，盖到眉毛",
+        "剪刀修短贴头型，露出耳朵",
+        "点剪打碎做纹理",
+        "侧分，少量发泥抓纹理"
+      ],
+      "avoid": [
+        "头顶不要剪太短",
+        "两侧不要用推子推青"
+      ],
+      "scores": {
+        "oval": 88,
+        "round": 66,
+        "square": 70,
+        "heart": 87,
+        "oblong": 60,
+        "diamond": 72,
+        "triangle": 58
+      },
+      "prompt": "a chic pixie cut, short sides and nape close to the head with ears exposed, longer textured top, long side-swept fringe over one eyebrow",
+      "look": "a pixie cut with a long side-swept fringe across the forehead, short sides close to the head, ears exposed, textured top",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "cropped",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f5",
+      "name": "空气刘海长直发",
+      "gender": "female",
+      "length": "long",
+      "ease": "需要吹整",
+      "care": "约 10 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "稀疏刘海让额头若隐若现，柔化比例",
+        "加了刘海的长直发不会显脸长",
+        "日常百搭"
+      ],
+      "say": "长度留过肩，剪稀疏的空气刘海到眉毛，发尾轻打层次。",
+      "specs": [
+        "过肩约 10 cm",
+        "只在发尾 5 cm 轻打层次",
+        "空气刘海，稀疏，到眉毛，宽度不超过眉峰",
+        "刘海两边各留一缕修颜发到颧骨",
+        "发尾轻打薄，不要厚重",
+        "刘海吹蓬，其余自然直"
+      ],
+      "avoid": [
+        "刘海不要太厚太齐",
+        "不要剪成齐刘海"
+      ],
+      "scores": {
+        "oval": 86,
+        "round": 72,
+        "square": 78,
+        "heart": 84,
+        "oblong": 93,
+        "diamond": 90,
+        "triangle": 74
+      },
+      "prompt": "long straight hair past the shoulders, light wispy see-through bangs reaching the eyebrows, two thin face-framing strands at the cheekbones",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f6",
+      "name": "下巴齐波波",
+      "gender": "female",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 5 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "下巴线上的重量让下颌更利落",
+        "短长度让脖子显长",
+        "直发也显得厚实"
+      ],
+      "say": "剪到下巴，齐一点，不打层次，发尾自然内收。",
+      "specs": [
+        "前后齐，停在下巴线",
+        "无，发尾轻微内收",
+        "不留；或长刘海融进两侧",
+        "后颈不推，保留厚度",
+        "平剪，发尾内侧略打薄",
+        "中分或微偏分，吹直"
+      ],
+      "avoid": [
+        "不要齐到嘴角以上",
+        "不要打太多层次"
+      ],
+      "scores": {
+        "oval": 92,
+        "round": 60,
+        "square": 62,
+        "heart": 90,
+        "oblong": 93,
+        "diamond": 86,
+        "triangle": 58
+      },
+      "prompt": "a sleek blunt chin-length bob, ends tucked slightly under at the jawline, middle part, no bangs",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "straight",
+        "layers": "minimal",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f7",
+      "name": "法式碎刘海短发",
+      "gender": "female",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 5 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "碎刘海缩短脸长",
+        "下颌附近有量感",
+        "随性，不用费力打理"
+      ],
+      "say": "剪到下颌和下巴之间，发尾打碎一点，留齐眉的碎刘海。",
+      "specs": [
+        "下颌线下 1–2 cm",
+        "发尾轻层次，稍微打碎",
+        "碎剪齐眉刘海，不要太厚",
+        "后颈留软，不推",
+        "点剪，自然微乱",
+        "不分线，发泥抓出纹理"
+      ],
+      "avoid": [
+        "刘海不要剪成一条直线",
+        "两侧不要剪得比后面短"
+      ],
+      "scores": {
+        "oval": 90,
+        "round": 64,
+        "square": 70,
+        "heart": 88,
+        "oblong": 94,
+        "diamond": 84,
+        "triangle": 60
+      },
+      "prompt": "a French bob ending between the jaw and chin with softly textured ends and wispy choppy fringe reaching the eyebrows",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f8",
+      "name": "侧分长刘海锁骨发",
+      "gender": "female",
+      "length": "medium",
+      "ease": "需要吹整",
+      "care": "约 10 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "侧分斜刘海把额头切窄",
+        "下颌位置的量感平衡尖下巴",
+        "长度不拖脸"
+      ],
+      "say": "剪到锁骨，三七侧分，长刘海扫到颧骨下方，下颌附近做一点内扣。",
+      "specs": [
+        "锁骨",
+        "从下颌开始的轻层次",
+        "侧分长刘海，最短到颧骨",
+        "跟着层次走",
+        "发尾吹内扣，保留厚度",
+        "三七分，刘海往一边吹"
+      ],
+      "avoid": [
+        "不要中分",
+        "刘海不要剪短到眉毛"
+      ],
+      "scores": {
+        "oval": 92,
+        "round": 84,
+        "square": 86,
+        "heart": 95,
+        "oblong": 82,
+        "diamond": 93,
+        "triangle": 78
+      },
+      "prompt": "collarbone-length hair with a deep side part, long side-swept bangs reaching the cheekbone, ends curled inward at the jaw",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f9",
+      "name": "蓬松羊毛卷",
+      "gender": "female",
+      "length": "medium",
+      "ease": "需要烫发",
+      "care": "约 10 分钟",
+      "cycle": "8–10 周",
+      "why": [
+        "蓬松卷度柔化棱角",
+        "颧骨以下的量感补满下半脸",
+        "显发量多"
+      ],
+      "say": "剪到肩膀，做中高层次，烫小一点的羊毛卷，顶部也要有蓬松度。",
+      "specs": [
+        "齐肩",
+        "中高层次",
+        "可留空气刘海一起烫",
+        "两侧层次拉开",
+        "羊毛卷，卷度均匀",
+        "中分，弹力素抓卷"
+      ],
+      "avoid": [
+        "卷不要只做发尾",
+        "两侧不要贴头皮"
+      ],
+      "scores": {
+        "oval": 86,
+        "round": 62,
+        "square": 90,
+        "heart": 80,
+        "oblong": 84,
+        "diamond": 88,
+        "triangle": 84
+      },
+      "prompt": "shoulder-length hair with tight soft wool-like curls all over, high volume at the crown and sides, middle part",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "curly",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f10",
+      "name": "齐刘海锁骨发",
+      "gender": "female",
+      "length": "medium",
+      "ease": "需要吹整",
+      "care": "约 8 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "齐刘海直接缩短脸长",
+        "锁骨长度不拖沓",
+        "显年轻"
+      ],
+      "say": "剪到锁骨，发尾轻层次，剪一个到眉毛的齐刘海，刘海不要太宽。",
+      "specs": [
+        "锁骨",
+        "只在发尾",
+        "齐眉，宽度不过眉峰，略带弧度",
+        "两侧留修颜发到颧骨",
+        "平剪后轻打薄",
+        "刘海吹顺，其余自然"
+      ],
+      "avoid": [
+        "刘海不要剪短到眉毛以上",
+        "刘海不要剪太宽太厚"
+      ],
+      "scores": {
+        "oval": 88,
+        "round": 58,
+        "square": 62,
+        "heart": 86,
+        "oblong": 95,
+        "diamond": 84,
+        "triangle": 70
+      },
+      "prompt": "collarbone-length straight hair with full blunt bangs cut at the eyebrows, no wider than the brow ends, face-framing strands at the cheekbones",
+      "hairProfile": {
+        "minutes": 8,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f11",
+      "name": "狼尾层次长发",
+      "gender": "female",
+      "length": "long",
+      "ease": "需要吹整",
+      "care": "约 10 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "头顶高层次增加高度",
+        "颧骨以下的层次向外，补满下颌",
+        "长度保留"
+      ],
+      "say": "长度留到胸口，头顶剪很高的层次，往下渐变，留八字刘海，发尾打碎。",
+      "specs": [
+        "胸口",
+        "高层次，头顶最短约 10 cm",
+        "八字刘海",
+        "两侧层次外翘",
+        "打碎，微乱",
+        "中分，吹蓬头顶"
+      ],
+      "avoid": [
+        "头顶层次不要剪到 8 cm 以下",
+        "不要烫太卷"
+      ],
+      "scores": {
+        "oval": 88,
+        "round": 86,
+        "square": 84,
+        "heart": 78,
+        "oblong": 72,
+        "diamond": 88,
+        "triangle": 90
+      },
+      "prompt": "long chest-length wolf cut, very short choppy layers at the crown flaring out below the cheekbones, curtain bangs, piecey ends",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "wavy",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "f12",
+      "name": "一刀切长直发",
+      "gender": "female",
+      "length": "long",
+      "ease": "好打理",
+      "care": "约 5 分钟",
+      "cycle": "8–10 周",
+      "why": [
+        "垂直线条拉长脸",
+        "发尾厚重，显发质好",
+        "最省事"
+      ],
+      "say": "留到胸口以上，一刀切平剪，不打层次，不留刘海。",
+      "specs": [
+        "胸口上方",
+        "无",
+        "不留，中分",
+        "无",
+        "平剪，厚重",
+        "中分，拉直"
+      ],
+      "avoid": [
+        "发尾不要打薄",
+        "不要烫卷"
+      ],
+      "scores": {
+        "oval": 82,
+        "round": 90,
+        "square": 72,
+        "heart": 84,
+        "oblong": 55,
+        "diamond": 70,
+        "triangle": 68
+      },
+      "prompt": "long one-length blunt straight hair ending above the chest, middle part, no layers, no bangs",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "straight",
+        "layers": "minimal",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": false
+      }
+    },
+    {
+      "id": "m1",
+      "name": "侧背头",
+      "gender": "male",
+      "length": "medium",
+      "ease": "需要发蜡",
+      "care": "约 10 分钟",
+      "cycle": "3–4 周",
+      "why": [
+        "顶部有高度、两侧干净，脸部线条更利落",
+        "侧分让额头比例更自然",
+        "通勤和正式场合都适合"
+      ],
+      "say": "两边推渐变，顶部留 8–10 cm，三七侧分往后梳。",
+      "specs": [
+        "顶部 8–10 cm",
+        "顶部到两侧自然过渡",
+        "不留，往后梳",
+        "3 mm 到 9 mm 渐变，鬓角修干净",
+        "顶部轻打薄，方便定型",
+        "三七侧分，发蜡往后梳"
+      ],
+      "avoid": [
+        "两侧不要推得太高",
+        "顶部不要打太薄"
+      ],
+      "scores": {
+        "oval": 95,
+        "round": 90,
+        "square": 88,
+        "heart": 78,
+        "oblong": 70,
+        "diamond": 80,
+        "triangle": 86
+      },
+      "prompt": "a side-parted slick-back, short faded sides, longer top about 9 cm combed back with volume, clean defined side part",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m2",
+      "name": "纹理短碎",
+      "gender": "male",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 3 分钟",
+      "cycle": "3–4 周",
+      "why": [
+        "短碎刘海自然盖住部分额头",
+        "顶部纹理增加层次",
+        "几乎不用打理"
+      ],
+      "say": "两边中渐变，顶部留 4–5 cm 打碎，前面留短碎刘海。",
+      "specs": [
+        "顶部 4–5 cm",
+        "顶部碎剪出纹理",
+        "短碎刘海，到额头中间",
+        "中渐变，从 6 mm 开始",
+        "点剪打碎",
+        "发泥抓乱，不分线"
+      ],
+      "avoid": [
+        "刘海不要剪齐",
+        "两侧渐变不要推到顶"
+      ],
+      "scores": {
+        "oval": 93,
+        "round": 86,
+        "square": 90,
+        "heart": 84,
+        "oblong": 84,
+        "diamond": 86,
+        "triangle": 82
+      },
+      "prompt": "a textured crop, mid fade on the sides, choppy textured top about 4–5 cm, short messy fringe on the middle of the forehead",
+      "hairProfile": {
+        "minutes": 3,
+        "finish": "cropped",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m3",
+      "name": "低渐变寸头",
+      "gender": "male",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 1 分钟",
+      "cycle": "2–3 周",
+      "why": [
+        "轮廓匀称时，超短发也不显突兀",
+        "低渐变保留两侧厚度，脸型不显窄",
+        "清爽利落"
+      ],
+      "say": "顶部 1.5–2 cm，两边从耳朵上方开始低渐变，发际线修干净。",
+      "specs": [
+        "顶部 1.5–2 cm",
+        "无",
+        "无",
+        "耳上开始低渐变，3 mm 到 0.5 mm",
+        "推子统一长度",
+        "不用产品"
+      ],
+      "avoid": [
+        "渐变线不要开得太高",
+        "顶部不要剪到 1 cm 以下"
+      ],
+      "scores": {
+        "oval": 92,
+        "round": 62,
+        "square": 93,
+        "heart": 60,
+        "oblong": 66,
+        "diamond": 64,
+        "triangle": 70
+      },
+      "prompt": "a buzz cut with a low fade, very short even top about 2 cm, sides fading shorter from just above the ears, crisp hairline",
+      "hairProfile": {
+        "minutes": 1,
+        "finish": "cropped",
+        "layers": "minimal",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": false
+      }
+    },
+    {
+      "id": "m4",
+      "name": "中分碎盖",
+      "gender": "male",
+      "length": "medium",
+      "ease": "需要吹整",
+      "care": "约 8 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "中分对称结构让比例更均衡",
+        "碎发柔化额头",
+        "显年轻"
+      ],
+      "say": "刘海留到眉毛中分，两边修薄贴合，后颈收短。",
+      "specs": [
+        "刘海到眉毛，顶部 7–8 cm",
+        "前长后短",
+        "中分，两边往外分开",
+        "剪刀修薄不推，后颈收短",
+        "发尾打碎",
+        "吹出中分弧度"
+      ],
+      "avoid": [
+        "不要剪成厚重锅盖",
+        "两侧不要用推子"
+      ],
+      "scores": {
+        "oval": 89,
+        "round": 74,
+        "square": 80,
+        "heart": 88,
+        "oblong": 90,
+        "diamond": 88,
+        "triangle": 78
+      },
+      "prompt": "middle-parted curtain hair, fringe to the eyebrows split in the middle and swept outward, softly textured top, trimmed close sides, short nape",
+      "hairProfile": {
+        "minutes": 8,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m5",
+      "name": "自然微卷中长发",
+      "gender": "male",
+      "length": "long",
+      "ease": "需要烫发",
+      "care": "约 10 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "微卷在两侧增加宽度，避免脸显长",
+        "有层次不沉重",
+        "随性的个人风格"
+      ],
+      "say": "长度到下巴和耳下之间，剪层次后烫自然微卷，侧分。",
+      "specs": [
+        "到下巴附近",
+        "中层次",
+        "侧分长刘海",
+        "不推，保留厚度",
+        "烫纹理微卷",
+        "卷发精华，自然风干"
+      ],
+      "avoid": [
+        "卷不要太小太紧",
+        "长度不要剪到耳朵以上"
+      ],
+      "scores": {
+        "oval": 84,
+        "round": 76,
+        "square": 88,
+        "heart": 86,
+        "oblong": 92,
+        "diamond": 84,
+        "triangle": 88
+      },
+      "prompt": "medium-length naturally wavy hair with soft loose curls reaching the jawline, layered, long side-parted fringe, volume at the sides",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m6",
+      "name": "高渐变飞机头",
+      "gender": "male",
+      "length": "short",
+      "ease": "需要发蜡",
+      "care": "约 10 分钟",
+      "cycle": "3–4 周",
+      "why": [
+        "顶部高度拉长脸",
+        "两侧干净，收窄颧骨",
+        "精神利落"
+      ],
+      "say": "两边高渐变，顶部留 6–8 cm 往上吹，前面最高。",
+      "specs": [
+        "顶部 6–8 cm，前长后短",
+        "顶部向后渐短",
+        "往上往后吹，不下垂",
+        "高渐变，1.5 mm 到 9 mm",
+        "轻打薄方便定型",
+        "吹风机吹高，发蜡定型"
+      ],
+      "avoid": [
+        "顶部不要留超过 10 cm",
+        "两侧不要留厚"
+      ],
+      "scores": {
+        "oval": 90,
+        "round": 94,
+        "square": 86,
+        "heart": 68,
+        "oblong": 58,
+        "diamond": 80,
+        "triangle": 92
+      },
+      "prompt": "a quiff with a high skin fade, top about 7 cm brushed up and back with height at the front",
+      "look": "a textured quiff with a high skin fade, top about 7 cm brushed up and back in separated chunky pieces, height at the front",
+      "hairProfile": {
+        "minutes": 10,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m7",
+      "name": "法式碎刘海短发",
+      "gender": "male",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 2 分钟",
+      "cycle": "3–4 周",
+      "why": [
+        "短碎刘海盖住额头，缩短脸长",
+        "两侧利落",
+        "几乎不用打理"
+      ],
+      "say": "两边中渐变，顶部 3–4 cm 往前梳，前面剪出碎刘海到额头中间。",
+      "specs": [
+        "顶部 3–4 cm",
+        "顶部齐一点，往前梳",
+        "碎刘海到额头一半",
+        "中渐变",
+        "刘海点剪打碎",
+        "不分线，往前梳，少量发泥"
+      ],
+      "avoid": [
+        "刘海不要剪齐",
+        "顶部不要留太长往前塌"
+      ],
+      "scores": {
+        "oval": 90,
+        "round": 66,
+        "square": 88,
+        "heart": 86,
+        "oblong": 94,
+        "diamond": 84,
+        "triangle": 72
+      },
+      "prompt": "a French crop with a mid fade, short textured top brushed forward, choppy fringe reaching the middle of the forehead",
+      "look": "short spiky textured hair pushed forward, messy separated pieces pointing in different directions, short choppy fringe",
+      "hairProfile": {
+        "minutes": 2,
+        "finish": "cropped",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m8",
+      "name": "经典三七分",
+      "gender": "male",
+      "length": "medium",
+      "ease": "需要发蜡",
+      "care": "约 5 分钟",
+      "cycle": "4–5 周",
+      "why": [
+        "侧分线让脸显得有结构",
+        "两侧不推太短，保留宽度",
+        "正式场合不出错"
+      ],
+      "say": "两边剪刀修短不推，顶部留 6–7 cm，三七分往旁边梳。",
+      "specs": [
+        "顶部 6–7 cm",
+        "顶部到两侧自然过渡",
+        "往一边梳",
+        "剪刀修到约 1.5 cm，不推渐变",
+        "保持干净",
+        "三七分，发油往侧后梳"
+      ],
+      "avoid": [
+        "两侧不要推渐变",
+        "分线不要太靠中间"
+      ],
+      "scores": {
+        "oval": 94,
+        "round": 80,
+        "square": 92,
+        "heart": 90,
+        "oblong": 82,
+        "diamond": 86,
+        "triangle": 80
+      },
+      "prompt": "a classic side part with scissor-cut tapered sides left about 1.5 cm, top about 6 cm combed to the side with a clean part line",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m9",
+      "name": "纹理烫",
+      "gender": "male",
+      "length": "medium",
+      "ease": "需要烫发",
+      "care": "约 5 分钟",
+      "cycle": "6–8 周",
+      "why": [
+        "卷度在两侧增加宽度",
+        "顶部蓬松不塌",
+        "随性有型"
+      ],
+      "say": "两边修短过渡，顶部留 7–8 cm 烫纹理卷，刘海自然下来。",
+      "specs": [
+        "顶部 7–8 cm",
+        "顶部碎层次",
+        "烫过后自然下垂到眉毛",
+        "低到中渐变",
+        "纹理烫，卷度中等",
+        "不分线，弹力素抓"
+      ],
+      "avoid": [
+        "卷不要太小",
+        "两侧不要推太高"
+      ],
+      "scores": {
+        "oval": 86,
+        "round": 70,
+        "square": 90,
+        "heart": 84,
+        "oblong": 88,
+        "diamond": 92,
+        "triangle": 86
+      },
+      "prompt": "a textured perm, loose medium curls on an 8 cm top falling softly over the forehead, low fade sides",
+      "look": "middle-parted medium hair with gentle loose waves, smooth flowing locks, soft volume, neat ends",
+      "hairProfile": {
+        "minutes": 5,
+        "finish": "curly",
+        "layers": "high",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m10",
+      "name": "耳下中长披发",
+      "gender": "male",
+      "length": "long",
+      "ease": "需要吹整",
+      "care": "约 8 分钟",
+      "cycle": "8–10 周",
+      "why": [
+        "两侧长度补满颧骨以下",
+        "垂感柔化棱角",
+        "有个性"
+      ],
+      "say": "长度留到耳下接近肩膀，剪长层次，中分或微偏分，自然垂下来。",
+      "specs": [
+        "耳下到肩",
+        "长层次",
+        "中分长刘海",
+        "不推，和整体一样长",
+        "发尾轻打薄",
+        "中分，自然风干"
+      ],
+      "avoid": [
+        "不要剪太多碎层次",
+        "两侧不要剪短"
+      ],
+      "scores": {
+        "oval": 82,
+        "round": 60,
+        "square": 88,
+        "heart": 78,
+        "oblong": 84,
+        "diamond": 84,
+        "triangle": 86
+      },
+      "prompt": "medium flow hair reaching just below the ears toward the shoulders, long layers, middle part, tucked behind one ear",
+      "hairProfile": {
+        "minutes": 8,
+        "finish": "straight",
+        "layers": "light",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": true
+      }
+    },
+    {
+      "id": "m11",
+      "name": "圆寸",
+      "gender": "male",
+      "length": "short",
+      "ease": "好打理",
+      "care": "约 1 分钟",
+      "cycle": "2–3 周",
+      "why": [
+        "轮廓好的脸露出来最利落",
+        "顶部比两侧稍长，头型更圆",
+        "零打理"
+      ],
+      "say": "顶部 1 cm 左右，两边 0.5 cm，不要渐变太明显，发际线修干净。",
+      "specs": [
+        "顶部约 1 cm",
+        "无",
+        "无",
+        "0.5 cm，轻微过渡",
+        "推子统一",
+        "无"
+      ],
+      "avoid": [
+        "不要推成光头",
+        "发际线不要修成直线"
+      ],
+      "scores": {
+        "oval": 90,
+        "round": 56,
+        "square": 94,
+        "heart": 72,
+        "oblong": 62,
+        "diamond": 66,
+        "triangle": 64
+      },
+      "prompt": "a tight buzz cut, top about 1 cm and sides about 0.5 cm with a subtle blend, crisp natural hairline",
+      "hairProfile": {
+        "minutes": 1,
+        "finish": "cropped",
+        "layers": "minimal",
+        "addsVolume": false,
+        "keepsWeight": true,
+        "supportsTryOn": false
+      }
+    },
+    {
+      "id": "m12",
+      "name": "逗号刘海",
+      "gender": "male",
+      "length": "medium",
+      "ease": "需要吹整",
+      "care": "约 8 分钟",
+      "cycle": "4–6 周",
+      "why": [
+        "刘海盖住额头，柔化宽额",
+        "顶部蓬松不塌",
+        "显年轻"
+      ],
+      "say": "两边修薄不推，顶部留 8–9 cm，刘海烫一个往内弯的逗号弧度。",
+      "specs": [
+        "顶部 8–9 cm，刘海到眉毛",
+        "前长后短",
+        "逗号刘海，一侧往内卷",
+        "剪刀修薄，后颈收短",
+        "发尾打碎",
+        "吹出弧度，发蜡定型"
+      ],
+      "avoid": [
+        "两侧不要用推子",
+        "刘海不要剪短过眉"
+      ],
+      "scores": {
+        "oval": 90,
+        "round": 76,
+        "square": 82,
+        "heart": 94,
+        "oblong": 90,
+        "diamond": 90,
+        "triangle": 74
+      },
+      "prompt": "Korean comma hair, top about 8 cm with a fringe to the eyebrows curving inward like a comma, thinned sides, short nape",
+      "hairProfile": {
+        "minutes": 8,
+        "finish": "wavy",
+        "layers": "light",
+        "addsVolume": true,
+        "keepsWeight": false,
+        "supportsTryOn": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Plinth 写实试戴使用的图像模型
+================================
+
+模型：DreamShaper 8 Inpainting（基于 Stable Diffusion 1.5 的重绘模型），作者 Lykon
+来源：https://huggingface.co/Lykon/dreamshaper-8-inpainting
+许可：CreativeML Open RAIL-M
+许可全文：见同一目录下的 LICENSE.txt（取自 https://huggingface.co/spaces/CompVis/stable-diffusion-license ）
+
+这份模型由原始权重转换成 Core ML 格式（使用 Apple 的 ml-stable-diffusion 转换工具），权重内容没有改动。
+使用这个模型要遵守上述许可里的使用限制。模型只在本机运行，照片不会上传。
+
+Image model used by Plinth's realistic try-on
+---------------------------------------------
+
+Model: DreamShaper 8 Inpainting (a Stable Diffusion 1.5 inpainting model) by Lykon
+Source: https://huggingface.co/Lykon/dreamshaper-8-inpainting
+Licence: CreativeML Open RAIL-M
+Licence text: LICENSE.txt in this folder (from https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+
+The model was converted from the original weights to Core ML with Apple's ml-stable-diffusion converter; the
+weights themselves are unchanged. Use of the model is subject to the use restrictions of that licence.
+It runs on this Mac only; photos are not uploaded.

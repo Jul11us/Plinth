@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+._*
+
+# Swift Package Manager and Xcode
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Generated applications, installers, model downloads, and archived duplicates
+build/
+archive/
+*.dmg
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+
+# Python tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
